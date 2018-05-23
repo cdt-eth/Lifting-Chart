@@ -29,3 +29,6 @@ A weightlifting chart built with Rails & React. I deployed the final project to 
 
 - Rails
 - React
+- Sass
+- Bootstrap
+- Heroku
